@@ -1,1 +1,1 @@
-# popular-vs-representatives
+# electoral-college
